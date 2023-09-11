@@ -7,6 +7,8 @@
 </p>
 
 
-I am a freelance in cloud engineering. I love migrations, refactoring undertakings and really like everything around reliability, authentication and developer experience.
+👋 I am a freelance in cloud engineering. I love migrations, refactoring undertakings and really like everything around reliability, authentication and developer experience.
 
-I am based in France, in my thirties, dad of one and I drive a Renault Clio break, like a real french daddy.
+⚙️ Trying to wrap my head around [platform engineering](https://platformengineering.org/blog/what-is-platform-engineering) for mid-size organizations.
+
+🇫🇷 I am based in France, in my thirties, dad of one and I drive a Renault Clio break, like a real french daddy.
